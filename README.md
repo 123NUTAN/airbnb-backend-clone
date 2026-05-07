@@ -48,8 +48,8 @@ The relational schema is designed for high data integrity:
    ```bash
    git clone [https://github.com/123NUTAN/airbnb-backend-clone.git](https://github.com/123NUTAN/airbnb-backend-clone.git)
 
-2. Set Environment Variables:
-   Configure DB_PASSWORD, JWT_SECRET_KEY, and STRIPE_SECRET_KEY in your environment.
+2. Set Environment Variables: 
+   Configure DB_PASSWORD, JWT_SECRET_KEY and STRIPE_SECRET_KEY in your environment.
    
 3. Run the application:
    ./mvnw spring-boot:run
