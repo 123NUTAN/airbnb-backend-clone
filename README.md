@@ -56,7 +56,7 @@ The relational schema is designed for high data integrity:
 
 4. Access Swagger UI:
   Navigate to
- http://localhost:8080/swagger-ui/index.html
+ http://localhost:8080/api/v1/swagger-ui/index.html
 to explore the API.
 
 
