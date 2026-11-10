@@ -43,21 +43,12 @@ The relational schema is designed for high data integrity:
 * **Hotels & Rooms:** Hierarchical relationship ensuring availability is tracked per room type.
 * **Bookings:** Tracks the relationship between users and property inventory with payment status states.
 
-## ⚙️ Local Setup
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/123NUTAN/airbnb-backend-clone.git](https://github.com/123NUTAN/airbnb-backend-clone.git)
 
-2. Set Environment Variables: 
-   Configure DB_PASSWORD, JWT_SECRET_KEY and STRIPE_SECRET_KEY in your environment.
-   
-3. Run the application:
-   ./mvnw spring-boot:run
 
-4. Access Swagger UI:
+## Access Swagger UI:
   Navigate to
- http://localhost:8080/api/v1/swagger-ui/index.html
-to explore the API.
+ https://airbnb-backend-clone-hi6b.onrender.com/api/v1/swagger-ui/index.html
+
 
 
 
